@@ -1,6 +1,10 @@
 use college;
-create table family(
-id int primary key, name varchar(30),relation varchar(30),city varchar(20),rating int
+CREATE TABLE family (
+    id INT PRIMARY KEY,
+    name VARCHAR(30),
+    relation VARCHAR(30),
+    city VARCHAR(20),
+    rating INT
 );
 insert into family 
 values(001,'Sumit','myself','bhopal',10),
