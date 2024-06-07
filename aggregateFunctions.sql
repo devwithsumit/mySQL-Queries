@@ -1,4 +1,4 @@
--- aggregate funtions
+-- Aggregate funtions
 -- min()
 -- max()
 -- sum()
